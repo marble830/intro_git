@@ -1,3 +1,6 @@
 gitの練習をする。
 
 →初めての変更です。
+
+・git add
+・git commit
